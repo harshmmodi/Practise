@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "873556945985",
+    "firebase_url": "https://getting-started-tutorial-c5221.firebaseio.com",
+    "project_id": "getting-started-tutorial-c5221",
+    "storage_bucket": "getting-started-tutorial-c5221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873556945985:android:51bfd8cc9f4e6238",
+        "android_client_info": {
+          "package_name": "com.example.harshmodi.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873556945985-h131nhjnokpe3i7ps6gpneamp58km1bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshmodi.firebasedemo",
+            "certificate_hash": "a286b292497268866072cd03ff69725ee0d9ba35"
+          }
+        },
+        {
+          "client_id": "873556945985-mu5s36g3g2tvtmopln0p26ekl7qkq2u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsYyzQ7yegsr1QspyFevIk4GMqge0J7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873556945985-mu5s36g3g2tvtmopln0p26ekl7qkq2u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

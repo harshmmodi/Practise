@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212167273397",
+    "firebase_url": "https://fir-authdemo-d46da.firebaseio.com",
+    "project_id": "fir-authdemo-d46da",
+    "storage_bucket": "fir-authdemo-d46da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212167273397:android:9a56e22c67b4a75f",
+        "android_client_info": {
+          "package_name": "com.example.harshmodi.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212167273397-lviif0u83ienpv8qnrajhoii7f4a25dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshmodi.firebaseauthdemo",
+            "certificate_hash": "a286b292497268866072cd03ff69725ee0d9ba35"
+          }
+        },
+        {
+          "client_id": "212167273397-1kssvo86efo07lgf2hp9i4fkhmicp09q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn7tPTjTnqO4U3uiqaKNP3rp3jIK6YfeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212167273397-1kssvo86efo07lgf2hp9i4fkhmicp09q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

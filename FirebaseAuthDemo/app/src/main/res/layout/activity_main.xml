@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.harshmodi.firebaseauthdemo.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:id="@+id/textViewNewRegistration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/linearLayout"
+            android:layout_marginBottom="31dp"
+            android:text="New User Registration"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+
+            />
+
+        <EditText
+            android:layout_centerVertical="true"
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Email ID" />
+
+        <EditText
+            android:layout_below="@+id/editTextEmail"
+            android:id="@+id/editTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Enter Password" />
+
+        <Button
+            android:layout_below="@+id/editTextPassword"
+            android:layout_marginTop="10dp"
+            android:text="Register User"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonRegister"
+            />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/buttonRegister"
+            android:text="Already Registered? Sign in here"
+            android:id="@+id/textViewSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            />
+
+
+</LinearLayout>
+
+
+</RelativeLayout>

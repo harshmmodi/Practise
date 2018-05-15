@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DhairyaTT</string>
+
+    <string-array name="Days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="Desc">
+        <item> Monday\'s Schedule </item>
+        <item> Tuesday\'s Schedule </item>
+        <item> Wednesday\'s Schedule </item>
+        <item> Thursday\'s Schedule </item>
+        <item> Friday\'s Schedule </item>
+        <item> Saturday\'s Schedule </item>
+        <item> Sunday\'s Schedule </item>
+    </string-array>
+
+
+</resources>
